@@ -1,6 +1,7 @@
-# ¾÷¾¹¾Ç²ß»P¸ê°T¦w¥ş¤§À³¥Î ´Á¤¤§@·~
+# æ©Ÿå™¨å­¸ç¿’èˆ‡è³‡è¨Šå®‰å…¨ä¹‹æ‡‰ç”¨ æœŸä¸­ä½œæ¥­
 
-¥H¤U»¡©ú¦UÀÉ®×ªº¤º®e¡G
-* method1¡GSiamese network for few-shot learning ¤¤ªº¤èªk¤@
-* fewshot_category_using_header: Siamese network for few-shot learning ¤¤ªº¤èªk¤G
-* ISM-BSM-classfication-bsm.py: §@¬°¤ñ¸ûªº¤èªk¹ê§@
+ä»¥ä¸‹èªªæ˜å„æª”æ¡ˆçš„å…§å®¹ï¼š
+* method1ï¼šSiamese network for few-shot learning ä¸­çš„æ–¹æ³•ä¸€
+* fewshot_category_using_header: Siamese network for few-shot learning ä¸­çš„æ–¹æ³•äºŒ
+* malware_feature_visualization_siamese_network: Siamese network for few-shot learning ä¸­çš„æ–¹æ³•ä¸‰
+* ISM-BSM-classfication-bsm.py: ä½œç‚ºæ¯”è¼ƒçš„æ–¹æ³•å¯¦ä½œ
